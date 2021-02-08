@@ -1,0 +1,2 @@
+//self signed certificate in certificate chain
+//npm config set strict-ssl false
