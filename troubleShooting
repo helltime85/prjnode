@@ -1,2 +1,3 @@
 //self signed certificate in certificate chain
-//npm config set strict-ssl false
+npm config set strict-ssl false
+Set-ExecutionPolicy Unrestricted
